@@ -16,7 +16,7 @@ STONKS is a Flutter app designed to provide real-time stock information. It inte
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/stonks.git
+    git clone https://github.com/NAVEENRAJ2004/STOCK-QUOTE-APP
     ```
 
 2. **Navigate to the Project Directory**:
